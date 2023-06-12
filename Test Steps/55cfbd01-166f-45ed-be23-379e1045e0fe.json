@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_free-trial",
+        "step 2: At Page_free-trial click on hyperlink_sign_up_trial --> navigate to Page_sign-up-trial",
+        "step 3: Add visual checkpoint at Page_sign-up-trial"
+    ]
+}

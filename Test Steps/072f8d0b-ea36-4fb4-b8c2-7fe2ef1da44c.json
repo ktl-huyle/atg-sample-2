@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_visual-testing",
+        "step 2: At Page_visual-testing click on div_wistia_87_big_play_button_graphic",
+        "step 3: Add visual checkpoint at Page_visual-testing"
+    ]
+}

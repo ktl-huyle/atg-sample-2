@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_view_a_demo_ --> navigate to Page_view-a-demo",
+        "step 3: At Page_view-a-demo click on div_wistia_87_big_play_button_graphic",
+        "step 4: Add visual checkpoint at Page_view-a-demo"
+    ]
+}
