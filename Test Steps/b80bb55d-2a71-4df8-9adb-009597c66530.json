@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_pricing --> navigate to Page_pricing",
-        "step 3: At Page_pricing click on div_object",
-        "step 4: Add visual checkpoint at Page_pricing"
-    ]
-}
