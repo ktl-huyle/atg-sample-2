@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_object --> navigate to Page_sign-up",
-        "step 3: At Page_sign-up click on hyperlink_sign_in_ --> navigate to Page_sign-in",
-        "step 4: Add visual checkpoint at Page_sign-in"
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_free-trial_mobile-testing",
-        "step 2: At Page_free-trial_mobile-testing click on hyperlink_mobile_testing --> navigate to Page_mobile-testing",
-        "step 3: At Page_mobile-testing click on hyperlink_view_a_demo --> navigate to Page_view-a-demo",
-        "step 4: At Page_view-a-demo click on div_wistia_87_big_play_button_graphic",
-        "step 5: Add visual checkpoint at Page_view-a-demo"
-    ]
-}

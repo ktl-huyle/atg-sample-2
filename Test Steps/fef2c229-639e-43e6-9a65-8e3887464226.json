@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_software-testers",
-        "step 2: At Page_software-testers click on hyperlink_sign_up --> navigate to Page_sign-up",
-        "step 3: Add visual checkpoint at Page_sign-up"
-    ]
-}

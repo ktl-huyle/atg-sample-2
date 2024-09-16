@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_partners --> navigate to Page_partners",
-        "step 3: Add visual checkpoint at Page_partners"
-    ]
-}
